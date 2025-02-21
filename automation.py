@@ -23,6 +23,7 @@ installers = [
     ('https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe', 'nvm-setup.exe'),
     ('https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/Git-2.48.1-64-bit.exe', 'Git-2.48.1-64-bit.exe'),
     ('https://central.github.com/deployments/desktop/desktop/latest/win32', 'GitHubDesktopSetup.exe')
+    ('https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows')
 ]
 
 # Download and install each
